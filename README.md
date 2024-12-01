@@ -1,2 +1,2 @@
-# genai-bootcamp
-gen ai bootcamp
+# genai
+generative artficial intelligence
