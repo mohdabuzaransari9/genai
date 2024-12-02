@@ -1,1 +1,5 @@
 ipykernel
+pandas
+textblob
+nltk
+emoji
